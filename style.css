@@ -1,0 +1,29 @@
+
+p{
+    background-color: aquamarine;
+}
+
+p {
+    text-decoration:none;
+    color: black;
+    border-bottom: 5px dotted blueviolet;
+}
+
+p:hover{
+    background-color: blue;
+}
+
+h1:first-letter{
+    color: crimson;
+    font-style:italic;
+    font-weight:bolder;
+    font-size: 40px;
+}
+
+img {
+    width: 300px;
+}
+
+footer{
+    text-align: center;
+}
