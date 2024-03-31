@@ -27,3 +27,10 @@ img {
 footer{
     text-align: center;
 }
+
+p:first-letter{
+    color: crimson;
+    font-style:italic;
+    font-weight:bolder;
+    font-size: 40px;
+}
